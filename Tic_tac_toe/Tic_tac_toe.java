@@ -1,8 +1,3 @@
-
-/* Author: Vignesh S
-   Date: 10-08-2022
-   Program for Minesweeper Game */
-
 import java.util.Scanner;
 
 public class Tic_tac_toe {
